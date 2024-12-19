@@ -164,6 +164,7 @@ require('nvim-treesitter.configs').setup({
         "c",
         "lua",
         "cpp",
+        "markdown",
         "markdown_inline",
         "luadoc",
         "vim",
